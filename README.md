@@ -39,4 +39,12 @@ L'application respecte l'architecture Modèle Vue Contrôleur permettant de sép
 
 ## Historique des modifications
 
-* **Commit 1 :** Création du projet et de la base de données
+Commit 1 : Création du projet et de la base de données
+
+Commit 2 : Mise en place de la DAL et authentification
+
+Commit 3 : Gestion du personnel (Ajout/Modif/Suppr)
+
+Commit 4 : Gestion des absences et contrôles de saisie
+
+Commit 5 : Fonctionnalités login et gestion
