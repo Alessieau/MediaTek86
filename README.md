@@ -1,3 +1,28 @@
+## Procédure d'Installation
+
+Pour déployer l'application sur votre poste, veuillez suivre les étapes suivantes :
+
+**1. Préparation de la Base de Données :**
+
+Ouvrez votre gestionnaire MySQL
+Importez le script SQL fourni : gestion_absences.sql.
+
+**2. Installation de l'Application :**
+
+Téléchargez l'installeur depuis Releases (ou utilisez le dossier Installeur)
+Lancez le fichier setup.exe.
+Note Windows SmartScreen : Comme l'application n'est pas signée, Windows peut bloquer le lancement (faites "Informations complémentaires" puis sur "Exécuter quand même").
+
+**3. Accès à l'Application :**
+
+Une fois l'installation terminée, lancez le raccourci sur votre bureau.
+Utilisez les identifiants de test suivants :
+
+Login : admin
+
+Mot de passe : admin
+
+
 ## Présentation
 
 **Titre :** MediaTek86
